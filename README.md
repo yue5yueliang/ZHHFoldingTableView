@@ -1,2 +1,2 @@
 # ZHHFoldingTableView
-UITableView折叠效果
+TableView折叠效果
